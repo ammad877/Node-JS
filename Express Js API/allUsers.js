@@ -48,6 +48,6 @@ const users = [{
     "first_name": "Jamaal",
     "last_name": "Galloway",
     "email": "jgalloway9@google.fr"
-  }]
+  }];
 
   module.exports = users;
